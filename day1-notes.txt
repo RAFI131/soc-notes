@@ -1,0 +1,20 @@
+Day 1 - Linux Fundamentals
+
+Learned:
+- pwd, whoami, ls and cd
+- mkdir, touch, echo and cat
+- cp and mv
+- grep for searching log entries
+- awk, sort and uniq for processing log data
+- chmod to make a script executable
+
+Project:
+Created auth.log and auth-summary.sh.
+The script counts failed login attempts by source IP.
+
+Result:
+203.0.113.5 - 2 failures
+198.51.100.7 - 1 failure
+
+Next:
+Learn more Linux commands and practise Bandit.

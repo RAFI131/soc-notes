@@ -1,0 +1,4 @@
+Oct 17 10:01:12 sshd Failed password for root from 203.0.113.5
+Oct 17 10:02:03 sshd Failed password for admin from 198.51.100.7
+Oct 17 10:03:10 sshd Accepted password for kali from 192.0.2.10
+Oct 17 10:04:20 sshd Failed password for root from 203.0.113.5
