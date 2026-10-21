@@ -1,23 +1,25 @@
-# Day 0 — Cybersecurity Lab Setup
+# Day 0 — Lab Setup
 
-## Objective
-Set up a GitHub repository to document my cybersecurity learning journey and practical exercises.
+## Goal
+Start a documented, hands-on cybersecurity learning journey.
 
-## Repository
-- Repository: `soc-notes`
-- GitHub account: `RAFI131`
-- Focus areas: Security Operations Center (SOC), Digital Forensics and Incident Response (DFIR), and Cyber Threat Intelligence (CTI).
+## Setup and observations
+- Created the `soc-notes` GitHub repository.
+- Used Kali Linux in a virtual machine for command-line practice.
+- Ran `ping -c 10 1.1.1.1` to test connectivity.
+- The screenshot of the test showed 10 packets received and 0% packet loss.
 
-## Work Completed
-- Created the `soc-notes` repository.
-- Started organising cybersecurity notes and practical exercises.
-- Established a record of my learning progress.
+## Learning focus
+- Linux fundamentals and command-line confidence
+- SOC triage and log analysis
+- Digital Forensics and Incident Response (DFIR)
+- Cyber Threat Intelligence (CTI)
 
-## Learning Approach
-- Practise in authorised labs and controlled environments.
-- Document commands, findings and investigation results.
-- Distinguish verified evidence from assumptions.
-- Build practical skills progressively.
+## Working approach
+- Record commands and observations accurately.
+- Separate evidence from assumptions.
+- Keep passwords, tokens, and other secrets out of public notes.
+- Label simulated scenarios and incomplete work clearly.
 
-## Next Steps
-Begin Linux fundamentals, authentication-log analysis and introductory security lab exercises.
+## Next step
+Begin Linux fundamentals and sample authentication-log analysis.
